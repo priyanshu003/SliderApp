@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SliderApp</string>
+    <!--Swipe intro strings-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Here is Slider 1 Title</string>
+    <string name="slide_1_desc">Here is slider 1 description</string>
+    <string name="slide_2_title">Here is Slider 2 Title</string>
+    <string name="slide_2_desc">Here is slider 2 description</string>
+    <string name="slide_3_desc">Here is slider 3 description</string>
+    <string name="slide_3_title">Here is Slider 3 Title</string>
+    <string name="slide_4_title">Here is Slider 4 Title</string>
+    <string name="slide_4_desc">Here is slider 4 description</string>
+</resources>
